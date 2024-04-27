@@ -1,3 +1,5 @@
+Ridge_Regression
+
 Best parameters: {'alpha': 100, 'class_weight': 'balanced', 'max_iter': None, 'tol': 0.001}
 Best cross-validation accuracy: 0.41094629180779046
 
