@@ -3,3 +3,4 @@ extracted_features_combined.csv
 llam3
 .venv
 best_model.pth
+llama3/
