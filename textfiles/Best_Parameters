@@ -1,0 +1,16 @@
+Ridge_Regression
+
+Best parameters: {'alpha': 100, 'class_weight': 'balanced', 'max_iter': None, 'tol': 0.001}
+Best cross-validation accuracy: 0.41094629180779046
+
+
+Accuracy: 0.3964978111319575
+Confusion Matrix:
+ [[ 58  14  13  39  23  19  16  10]
+ [ 10  34  22  14  41  33  10  22]
+ [  2  10  86   2  59  16  11   7]
+ [ 41  17   5 107  16  17  12  14]
+ [  4  11  26   5 124   4   7   7]
+ [ 15  13  28  19  29 101   8  12]
+ [ 20  16  23  17  18  35  28  20]
+ [  8  10  21  14  31  11  18  96]]
