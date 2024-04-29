@@ -4,3 +4,4 @@ llam3
 .venv
 best_model.pth
 llama3/
+logs
